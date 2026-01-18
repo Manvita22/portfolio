@@ -1,0 +1,91 @@
+
+CHINTHALA NAGA MANVITA
+      abhimanu6729@gmail.com | (+91) 9949604231
+
+https://github.com/Manvita22                                                                                                            Manvita 
+
+SKILLS
+? C, Java, Python
+? HTML, CSS, Javascript
+? Node.js, Express.js, React.js, RESTFUL APIs 
+? OOPS(Object oriented programming)
+? SQL, MongoDB, Git
+? OS(Operating Systems)
+
+
+
+EDUCATION
+? CSE-AIML| Hyderabad Institute of Technology and Management    CGPA:8.7 |Present
+
+? XII MPC |Trividyaa Junior College                                                                      95.7%|2023       
+        
+? X (CBSE) |Sadhu Vaswani International School		                       90.0%| 2021                 	             		         
+
+
+
+EXPERIENCE
+? Intern| EDUNET FOUNDATION                        				
+ Implementation of Chatbot using NLP                 
+* Intern | INFOSYS SPRINGBOARD
+
+AI-Based Automated Content Marketing Optimizer
+
+
+ACADEMIC PROJECTS
+? Spotify Clone	
+		   
+* Technologies : HTML,CSS
+
+? Travel Blog Website 	
+			   
+* Technologies : HTML,CSS,JAVASCRIPT,DJANGO,DBSQLITE
+* User friendly travel website in which the user can explore underrated locations by viewing posts by other users. The user can modify the posts they created(add, remove, update).
+* Snake Game
+* Technologies: Core Java
+* Classic and interactive Snake game, built using Java including various concepts of  Event handling like Key Events, Mouse Events, usage of different packages like util, timer, random.
+* AIRBNB
+
+* AI Based Automated Content Marketing Optimizer
+* Technologies: Python, Flask API, HTML ,Tailwind CSS, JavaScript
+* AI-Based Automated Content Marketing Optimizer is a system that uses Artificial Intelligence to automatically generate, analyze, and optimize short-form marketing content for social media.
+It employs the Google Gemini model to create multiple post versions, compare them, and predict engagement potential based on sentiment, tone, and emotional appeal.
+The system also learns from previous content performance, continuously improving its predictions to help brands craft more effective, data-driven marketing posts.
+
+* NATIVE LANGUAGE IDENTIFIER
+* Technologies: Python, PyTorch, Hugging Face Transformers, Librosa, Torchaudio, NumPy, Pandas, Flask (Web App)
+* AI-based speech analysis project that automatically identifies the regional accent of a speaker from short audio recordings. The system uses two powerful approaches:
+> MFCC Feature Extraction: Captures core acoustic properties of speech.
+> HuBERT Transformer Embeddings: Extracts high-level phonetic patterns from pretrained speech transformers.
+> These features are fed into a lightweight MLP classifier, which achieves up to 100% accuracy for sentence-level audio. The system also includes:
+> Layer-wise HuBERT analysis to find which transformer layer captures accent cues best.
+> Word vs Sentence comparison showing why longer utterances improve accent recognition.
+> Cross-age generalization testing to evaluate how well adult-trained models perform on children's speech.
+
+
+
+
+
+
+
+* DRIVER DROWSINESS DETECTION SYSTEM
+        TECHNOLOGIES USED
+o Languages: Python 3.8+
+o Deep Learning: TensorFlow, Keras (CNN)
+o Computer Vision: OpenCV (Haar Cascade Classifiers)
+o GUI Framework: Tkinter, PIL (Pillow)
+o Audio Processing: Pygame, NumPy
+o Data Processing: NumPy, Pandas
+o Visualization: Matplotlib
+The Drowsy Driver Detection System is a real-time computer vision application combining Haar Cascade face/eye detection with a 3-layer CNN to identify driver drowsiness from webcam feeds. Processing at 15-30 FPS with 50-100ms latency, the system achieves 83.49% test accuracy on 1,450+ labeled eye images. It employs sequential decision logic requiring both eyes closed to increment a drowsiness score mapped to three alert levels: AWAKE (green, score <8), ALERT (orange, score 8-14 with audio alert), and DROWSY (red, score =15 with alarm). The CNN model trained over 15 epochs achieves 96.2% training and 85.7% validation accuracy with 82.1% precision and 84.3% recall. With a 476 KB model footprint, 25-40% CPU usage, and no GPU requirement, the system is deployable on embedded automotive hardware for fleet management, industrial monitoring, and safety-critical applications. The production-ready system includes configurable thresholds, real-time GUI visualization, and dual-tone audio alerts designed to prevent fatigue-induced accidents while minimizing false positives.
+
+
+
+HOBBIES
+? Browsing Internet
+? Reading
+? Video Editing
+? Exploring new technologies
+
+
+
+
